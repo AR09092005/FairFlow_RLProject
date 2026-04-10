@@ -9,7 +9,7 @@
 | Name | Registration No. |
 |------|-----------------|
 | Aditya Rajeev Nair | 23BAI0036 |
-| Agnik Patra | 23BAI0001 |
+| Agnik Patra | 23BAI001 |
 | Anasmita Bhattacharya | 23BAI0028 |
 | Paulami Sahu | 23BAI0020 |
 
